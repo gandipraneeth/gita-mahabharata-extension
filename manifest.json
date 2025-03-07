@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Daily Quotes: Bhagavad Gita and Mahabharata in Sanskrit and English Audio",
+    "version": "1.0",
+    "description": "Get daily inspirational quotes from Bhagavad Gita & Mahabharata in Sanskrit and English with audio playback.",
+    "permissions": ["storage"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon_128x128.png"
+    },
+    "icons": {
+        "128": "icon_128x128.png"
+    }
+}
